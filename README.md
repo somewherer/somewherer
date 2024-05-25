@@ -1,16 +1,18 @@
-## Hi there 👋
+## toki
 
-<!--
-**somewherer/somewherer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i’m learning how to flow ^.^
 
-Here are some ideas to get you started:
+## contact me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### session
+```
+052c2b82f0eafd96e9f7c17a79c3b1403bca3967d88c23ac2d0b5334cd21a9d57f
+```
+### matrix
+```
+@somewherer:matrix.org
+```
+### discord
+```
+somewherer
+```
